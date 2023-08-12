@@ -13,9 +13,6 @@ console.log(i);
 i=true;
 console.log(i);
 
-i=true;
-console.log(i);
-
 //---------------------------------------
 
 // 1st problem in var -> Redeclaration thats why -> let and const comes in to role
